@@ -45,7 +45,7 @@ Election Management System (EMS)     *
 
 ## 📚 Course Project
 
-This system was developed as a **mini-project** for my Object-Oriented Programming course. It demonstrates the practical application of classes, inheritance, file handling (if used), and modular design.
+This system was developed as a **practise-project** for my Object-Oriented Programming course. It demonstrates the practical application of classes, inheritance, file handling (if used), and modular design.
 
 ---
 
